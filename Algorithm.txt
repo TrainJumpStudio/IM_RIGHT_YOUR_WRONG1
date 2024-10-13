@@ -1,0 +1,14 @@
+This is the algorthim we will be testing today.
+
+start clock
+
+function(int x) -> 
+    1. make empty array to store x ammount of intagers
+    2. fill array with numbers 0 to x
+    3. calculate sum(arr)
+    4. return sum
+
+end clock
+
+print sum, end-start seconds
+    
