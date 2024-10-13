@@ -11,4 +11,9 @@ function(int x) ->
 end clock
 
 print sum, end-start seconds
-    
+
+1. C++:    Sum -> 4999999950000000, Time -> 0.680269  
+2. GO:     Sum -> 4999999950000000, Time -> 0.340823 
+3. Java:   Sum -> 4999999950000000, Time -> 0.465
+4. JS:     Sum -> 4999999850000000, Time -> 5.431 
+5. Python: Sum -> 4999999950000000, Time -> 6.432138919830322
